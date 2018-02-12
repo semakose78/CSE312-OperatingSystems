@@ -1,1 +1,1 @@
-# CSE312-504-OperatingSystems
+# CSE312-OperatingSystems
